@@ -1,5 +1,12 @@
-### Hi, I'm Hasaan Akhtar.
+### About Me
 
-I'm a developer building projects with Python.
+---
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hasaanakhtar/)
+Hi, I'm Hasaan Akhtar.
+I am a developer building projects with Python.
+
+### Social
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-custom-url](https://www.linkedin.com/in/hasaanakhtar/))
